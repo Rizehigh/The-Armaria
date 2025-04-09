@@ -32,7 +32,7 @@ group: true
 ```
 
 ```todoist
-name: Upcoming Tasks
+name: SAC Dates
 filter: "upcoming"
 sorting:
 - date
