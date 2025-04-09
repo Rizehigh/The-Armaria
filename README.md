@@ -13,16 +13,7 @@ Check out bio.site/SheepManiac for more about me!
 
 
 ## Todoist
-```todoist
-name: {task_count}
-filter:
-sorting:
-- priority
-- date
-- dateDescending
-group:
-autorefresh:
-```
+
 ```todoist
 name: Daily Tasks
 filter: "today | overdue"
@@ -34,7 +25,7 @@ group: true
 
 ```todoist
 name: Upcoming Tasks
-filter: "date before: 3 weeks after next week"
+filter: "date after: today & date before: 3 weeks after next week"
 sorting:
 - date
 - priority
