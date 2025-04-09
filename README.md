@@ -12,10 +12,8 @@ Check out bio.site/SheepManiac for more about me!
 
 
 
-## Todoist
-
+## To Do
 ```todoist
-name: To Do
 filter: "today | overdue"
 show: 
 - due
