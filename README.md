@@ -13,6 +13,22 @@ Check out bio.site/SheepManiac for more about me!
 
 ### Todoist
 ```todoist
-name: {task}
-
+name: {task_count}
+filter:
+sorting:
+- priority
+- date
+- dateDescending
+group:
+autorefresh:
+```
+```todoist
+name: {Daily Quests}
+filter:
+sorting:
+- priority
+- date
+- dateDescending
+group:
+autorefresh:
 ```
