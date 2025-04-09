@@ -9,3 +9,10 @@ It chronicles my passage through study, introspection, & aspiration, while inter
 
 
 Check out bio.site/SheepManiac for more about me!
+
+
+### Todoist
+```todoist
+name: {task}
+
+```
