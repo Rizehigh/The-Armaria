@@ -21,7 +21,7 @@ sorting:
 - date
 - priority
 group: true
-autorefresh: true
+autorefresh: 120
 ```
 
 ```todoist
@@ -31,4 +31,5 @@ sorting:
 - date
 - priority
 group: true
+autorefresh: 120
 ```
