@@ -1,8 +1,7 @@
 ---
 tags:
-  - anime
-  - figure
   - shopping
+  - anime/figure
 ---
 **Nendoroid** is a series of **chibi, palm-sized** figures distributed by [[Good Smile Company]], made from **painted plastic**.
 - Most come with **interchangeable face plates** & **additional parts**, which allow for various poses & expressions.

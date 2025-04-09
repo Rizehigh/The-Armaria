@@ -1,7 +1,7 @@
 ---
 tags:
-  - anime
-  - figure
+  - anime/figure
+  - shopping
 aliases:
   - GSC
 ---

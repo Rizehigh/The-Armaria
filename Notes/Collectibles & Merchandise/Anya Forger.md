@@ -1,8 +1,8 @@
 ---
 tags:
-  - anime
-  - figure
   - review
+  - anime/figure
+  - anime
 ---
 
 ### 🧾Details

@@ -1,7 +1,7 @@
 ---
 tags:
-  - figure
   - shopping
+  - anime/figure
 ---
 ## 📍 1. Locations
 
