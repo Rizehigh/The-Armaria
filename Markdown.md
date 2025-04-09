@@ -37,11 +37,8 @@ code
 - [ ] Task not completed
 #### Tables
 
-| Header 1               | Header 2                     | Header 3                                  |                                       |
-| ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------------- |
-| Cell 1                 | Cell 2                       | Cell 3                                    |                                       |
-| Cell 4                 | Cell 5                       | Cell 6                                    |                                       |
 | Shortcut Key (General) | Functions                    | Shortcut Key (Editing)                    | Functions                             |
+| ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------------- |
 | Ctrl + S               | Editor: Saves the file       | Ctrl + B                                  | Bold Selected Text                    |
 | Ctrl + N               | Creates a new note           | Ctrl + I                                  | Italicize Selected Text               |
 | Ctrl + P               | Open command pallete         | Ctrl + K                                  | Insert External Link to Selected Text |
