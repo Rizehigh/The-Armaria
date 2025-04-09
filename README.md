@@ -23,12 +23,10 @@ group:
 autorefresh:
 ```
 ```todoist
-name: {Daily Quests}
-filter:
+name: Daily Tasks
+filter: "today | overdue"
 sorting:
-- priority
 - date
-- dateDescending
-group:
-autorefresh:
+- priority
+group: true
 ```
