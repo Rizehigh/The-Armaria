@@ -19,6 +19,9 @@ name: To Do
 filter: "today | overdue"
 show: 
 - due
+- description
+- project
+- labels
 sorting:
 - date
 - priority
@@ -26,6 +29,11 @@ group: true
 ```
 ```todoist
 filter: "date after: today & date before: 3 weeks after next week"
+show: 
+- due
+- description
+- project
+- labels
 sorting:
 - date
 - priority
