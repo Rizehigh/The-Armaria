@@ -1,8 +1,7 @@
 ---
 tags:
-  - review
-  - anime/figure
-  - anime
+  - anime/figure/review
+  - anime/Spy×Family
 ---
 
 ### 🧾Details

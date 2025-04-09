@@ -1,6 +1,7 @@
 ---
 tags:
   - vocaloid/Hatsune-Miku
+  - anime/figure/review
 ---
 ![[Hatsune Miku 15th Anniversary Ver..jpg]]
 ### 🧾Details
