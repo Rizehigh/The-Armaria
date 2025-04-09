@@ -34,7 +34,7 @@ group: true
 
 ```todoist
 name: SAC Dates
-filter: "1 week after next week"
+filter: "date before: 1 week after next week"
 sorting:
 - date
 - priority
