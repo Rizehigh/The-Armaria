@@ -2,6 +2,7 @@
 tags:
   - anime
   - figure
+  - shopping
 ---
 **Kotobukiya** is a figure, model kit, & hobby goods manufacturer. They produce pre-painted plastic (ABS, PVC, & sometimes acrylic) figures. 
 - Their products encompass a diverse range, including **scale figures**, **model kits**, & **statues**, each crafted with exceptional attention to detail.​

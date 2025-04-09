@@ -2,6 +2,7 @@
 tags:
   - anime
   - figure
+  - shopping
 ---
 **figma** is a series of figures distributed by [[Good Smile Company]]. They are made of **painted plastic (AVB & PVC)**.
 -  Almost all come with **interchangeable face plates** & **additional parts**, & can be manipulated into various positions (**articulated**).

@@ -4,17 +4,17 @@ aliases:
 ---
 ## Why Photosynthesis Occurs
 
-Photosynthesis captures **radiant energy** to synthesise **chemical energy** in the form of glucose, using **carbon dioxide** & **water**, producing **oxygen** as a by-product.
+Photosynthesis captures **light energy** from sunlight to convert it into **chemical energy** in the form of a 6C sugar, glucose, using **carbon dioxide** & **water**, producing **oxygen** as a by-product.
 
-Plants are **photoautotrophs**—organisms that synthesise their own nourishment via light energy rather than consuming organic matter.
+Plants are **photoautotrophs**—organisms that synthesise their own food using light energy instead of consuming organic matter.
 
 ## Where Photosynthesis Occurs
 
-Photosynthesis occurs in the chloroplasts of plants & algae. There are two stages. The light dependent stage takes place in the **grana**, on **thylakoid membranes**. The light independent stage takes place in the **stroma**. 
+Photosynthesis occurs in two stages in the **chloroplasts** of plants & algae. The **light-dependent** stage takes place in the **grana**, on **thylakoid membranes**. The **light-independent** stage takes place in the **stroma**. 
 
 ## Photosynthesis Equations:
 
-Photosynthesis **captures energy** in sunlight, storing it in a six-carbon sugar, **glucose**. All of the reactions are catalysed by **[[RuBisCO]]** with the help of [[cofactors]].
+All of the reactions are catalysed by **[[RuBisCO]]** with the help of [[cofactors]]. 
 
 **Balanced Overall Photosynthesis Equation:**$$6CO_2 + 6H_2O \xrightarrow[\text{chlorophyll}]{\text{light}} C_6H_{12}O_6 + 6O_2$$
 **True Overall Photosynthesis Equation:**

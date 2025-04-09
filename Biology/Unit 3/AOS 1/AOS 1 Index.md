@@ -3,6 +3,7 @@
 
 
 ## Chapter 4
+
 - [[4A - Polymerase]]
 - [[4B - CRISPR-Cas9]]
 - [[4B.1 - Gene Editing with CRISPR-Cas9]]

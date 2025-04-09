@@ -4,6 +4,7 @@ tags:
   - figure
   - review
   - vocaloid
+  - Hatsune-Miku
 ---
 ![[Hatsune Miku 15th Anniversary Ver..jpg]]
 ### 🧾Details

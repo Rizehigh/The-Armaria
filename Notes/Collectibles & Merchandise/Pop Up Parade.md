@@ -2,6 +2,7 @@
 tags:
   - anime
   - figure
+  - shopping
 ---
 **Pop Up Parade**, or **PuP**, is a series of figures distributed by [[Good Smile Company]]
 - May include interchangeable face plates & removeable items.
