@@ -17,11 +17,12 @@ Check out bio.site/SheepManiac for more about me!
 ```todoist
 name: To Do
 filter: "today | overdue"
+show: 
+- due
 sorting:
 - date
 - priority
 group: true
-autorefresh: 120
 ```
 ```todoist
 filter: "date after: today & date before: 3 weeks after next week"
@@ -29,6 +30,5 @@ sorting:
 - date
 - priority
 group: true
-autorefresh: 120
 ```
 
