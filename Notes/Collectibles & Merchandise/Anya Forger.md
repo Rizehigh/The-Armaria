@@ -1,7 +1,7 @@
 ---
 tags:
   - anime/figure/review
-  - anime/Spy-×-Family
+  - anime/Spy-×-Family/Anya-Forger
 ---
 
 ### 🧾Details
