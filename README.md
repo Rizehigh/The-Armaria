@@ -33,7 +33,7 @@ group: true
 
 ```todoist
 name: Upcoming Tasks
-filter: ""
+filter: "upcoming"
 sorting:
 - date
 - priority
