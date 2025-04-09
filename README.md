@@ -30,3 +30,12 @@ sorting:
 - priority
 group: true
 ```
+
+```todoist
+name: Upcoming Tasks
+filter: ""
+sorting:
+- date
+- priority
+group: true
+```
