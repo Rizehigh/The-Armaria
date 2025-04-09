@@ -10,7 +10,7 @@ Plants are **photoautotrophs**—organisms that synthesise their own food using 
 
 ## Where Photosynthesis Occurs
 
-Photosynthesis occurs in two stages in the **chloroplasts** of plants & algae. The **light-dependent** stage takes place in the **grana**, on **thylakoid membranes**. The **light-independent** stage takes place in the **stroma**. 
+Photosynthesis occurs in two stages in the **[[5A.2 - Chloroplasts|chloroplasts]]** of plants & algae. The **light-dependent** stage takes place in the **grana**, on **thylakoid membranes**. The **light-independent** stage takes place in the **stroma**. 
 
 ## Photosynthesis Equations:
 
