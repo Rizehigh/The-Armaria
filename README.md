@@ -15,7 +15,7 @@ Check out bio.site/SheepManiac for more about me!
 ## Todoist
 
 ```todoist
-name: Daily Tasks
+name: To Do Today
 filter: "today | overdue"
 sorting:
 - date
@@ -23,6 +23,7 @@ sorting:
 group: true
 autorefresh: 120
 ```
+
 
 ```todoist
 name: Upcoming Tasks
@@ -33,3 +34,4 @@ sorting:
 group: true
 autorefresh: 120
 ```
+
