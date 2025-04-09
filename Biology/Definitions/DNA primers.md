@@ -1,0 +1,1 @@
+On the lagging strand of DNA during replication, **primase** builds short, single-stranded RNA sequences, primers, as a starting point for DNA polymerase to extend the primer. This is because DNA can only be made **5' → 3'**

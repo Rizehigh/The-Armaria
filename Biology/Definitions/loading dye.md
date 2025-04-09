@@ -1,0 +1,2 @@
+Helps makes DNA visible. Usually
+There are usually two pigments, one faster than DNA, one slower. This shows where the DNA is to help us to know how long to run the [[4C.1 - PCR Machine (thermocycler)|thermocycler]] for.

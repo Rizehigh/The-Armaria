@@ -1,3 +1,3 @@
 # Obsidian-Vault-Sync
 
-this is a test for obsidian
+Hello everyone! Welcome to SheepManiac's Vault!

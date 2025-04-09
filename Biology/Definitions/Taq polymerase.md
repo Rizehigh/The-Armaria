@@ -1,0 +1,2 @@
+A thermostable enzyme derived from the bacterium *Thermus aquaticus*, which thrives in hot springs. 
+Used in [[4C - Polymerase Chain Reaction|PCR]] as it is **resistant to denaturation** at the **high temperatures** required during [[4C - Polymerase Chain Reaction|PCR]] cycles.
