@@ -1,6 +1,5 @@
 ---
 tags:
-  - anime
   - figure
   - shopping
 ---
