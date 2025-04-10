@@ -81,7 +81,7 @@
 | International Visitor Tax | 4,000       | $44.28            |
 | Flight to Tokyo           |             | $4000             |
 | Flight to                 |             |                   |
-| Flight to Melbourne       |             |                   |
+| Flight to Melbourne       |             | $4000             |
 | Hotel (Tokyo)             |             |                   |
 | Hotel (Osaka)             |             |                   |
 | Food                      | ¥3,000×13×4 | $1700             |
