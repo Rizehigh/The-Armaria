@@ -61,20 +61,20 @@
 ## 💴 Total Costs
 
 
-| Cost                      | Yen       | Aud               |
-| ------------------------- | --------- | ----------------- |
-| International Visitor Tax | 4,000     | $44.28            |
-| Flight to Tokyo           |           | $4000             |
-| Flight to                 |           |                   |
-| Flight to Melbourne       |           |                   |
-| Hotel (Tokyo)             |           |                   |
-| Hotel (Osaka)             |           |                   |
-| Food                      | ¥3,000×13 | $1500             |
-| Travel Pass               |           |                   |
-| Entertainment             |           |                   |
-|                           |           |                   |
-| Merchandise               | 324,738   | Maximum of $3,600 |
-| Travel insurance          |           |                   |
-| Miscellaneous             |           |                   |
-|                           |           |                   |
-| Total                     |           |                   |
+| Cost                      | Yen         | Aud               |
+| ------------------------- | ----------- | ----------------- |
+| International Visitor Tax | 4,000       | $44.28            |
+| Flight to Tokyo           |             | $4000             |
+| Flight to                 |             |                   |
+| Flight to Melbourne       |             |                   |
+| Hotel (Tokyo)             |             |                   |
+| Hotel (Osaka)             |             |                   |
+| Food                      | ¥3,000×13×4 | $1700             |
+| Travel Pass               |             |                   |
+| Entertainment             |             |                   |
+|                           |             |                   |
+| Merchandise               | 324,738     | Maximum of $3,600 |
+| Travel insurance          |             |                   |
+| Miscellaneous             |             |                   |
+|                           |             |                   |
+| Total                     |             |                   |
