@@ -58,6 +58,7 @@
 	- Date:
 	- Price: 
 	- 
+- 
 
 ## 🍣Food
 
@@ -65,7 +66,10 @@
 
 ## 🛍️Shopping
 
-
+- Kotobukiya
+	- 
+- AmiAmi
+	- 
 
 
 
