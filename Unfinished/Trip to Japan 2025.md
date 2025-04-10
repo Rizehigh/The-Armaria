@@ -64,17 +64,17 @@
 | Cost                      | Yen     | Aud               |
 | ------------------------- | ------- | ----------------- |
 | International Visitor Tax | 4,000   | $44.28            |
-| Flight to Tokyo           |         |                   |
+| Flight to Tokyo           |         | $4000             |
 | Flight to                 |         |                   |
 | Flight to Melbourne       |         |                   |
-| Hotel (Toky)              |         |                   |
-| Hotel                     |         |                   |
-| Food                      |         |                   |
+| Hotel (Tokyo)             |         |                   |
+| Hotel (Osaka)             |         |                   |
+| Food                      | ¥3,000* |                   |
 | Travel Pass               |         |                   |
 | Entertainment             |         |                   |
 |                           |         |                   |
 | Merchandise               | 324,738 | Maximum of $3,600 |
-|                           |         |                   |
-|                           |         |                   |
+| Travel insurance          |         |                   |
+| Miscellaneous             |         |                   |
 |                           |         |                   |
 | Total                     |         |                   |
