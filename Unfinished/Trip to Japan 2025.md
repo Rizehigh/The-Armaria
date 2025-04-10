@@ -1,17 +1,14 @@
 “*A journey of a thousand gacha pulls begins with a single yen*.”
 
 ## 📅Date Overview
-
-| Date   | Location              | Notes                        |
-| ------ | --------------------- | ---------------------------- |
-| Dec 17 | Melbourne             | Departure at 10:45 PM (QF79) |
-| Dec 18 | Tokyo                 | Arrive 6:30 AM, check-in     |
-| Dec 23 | Hakone or Kawaguchiko |                              |
-| Dec 24 | Kyoto                 |                              |
-| Dec 28 | Osaka                 |                              |
-|        |                       |                              |
-| Dec 31 | Melbourne             | Arrive 6:30 AM, check-in     |
-
+| Date      | Location     | Notes                                  |
+| --------- | ------------ | -------------------------------------- |
+| Dec 17    | Fly from MEL | Depart at night                        |
+| Dec 18–23 | Tokyo        | City sights, Disney, Ghibli, Xmas Eve  |
+| Dec 23–25 | Hakone       | Onsen & Fuji backdrop for Christmas 🎄 |
+| Dec 25–28 | Kyoto        | Traditional temples, slow pace         |
+| Dec 28–30 | Osaka        | Shopping & food                        |
+| Dec 30–31 | Return MEL   | Beat New Year’s shutdown in Japan      |
 
 ## ✈️ Flights
 
