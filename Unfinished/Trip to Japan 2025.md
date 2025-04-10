@@ -53,3 +53,9 @@
 |…|…|
 
 
+## 🍣 Food & Budget
+
+
+
+## 💴 Total Costs
+
