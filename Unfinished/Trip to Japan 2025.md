@@ -54,6 +54,12 @@
 |…|…|
 
 
+
+- Universal Studios Japan
+	- Date:
+	- Price: 
+	- 
+
 ## 🍣 Food & Budget
 
 
