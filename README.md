@@ -1,4 +1,4 @@
-# [The Armaria](https://github.com/Rizehigh/The-Armaria)
+# [The Hypomnematheke](https://github.com/Rizehigh/The-Armaria)
 
 Hark, o' curious wanderer, as thou traversest the shadowed threshold, welcome to **SheepManiac's Obsidian Vault**!
 
