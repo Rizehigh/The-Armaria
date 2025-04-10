@@ -10,7 +10,7 @@
 | Dec 28–30 | Osaka        | Shopping & food                        |
 | Dec 30–31 | Return MEL   | Beat New Year’s shutdown in Japan      |
 
-## ✈️ Flights
+## ✈️Flights
 
 - **Airline:** Qantas
     
@@ -23,9 +23,9 @@
 - **Cost:** AUD $1,230
 
 
-## 🏨 Accommodation
+## 🏨Accommodation
 
-#### 🏯 Tokyo (Dec 11–15)
+#### 🏯Tokyo (Dec 11–15)
 
 - **Hotel:** APA Hotel Shinjuku Gyoenmae
     
@@ -36,7 +36,7 @@
 - **Cost:** ¥8,000/night × 4 = ¥32,000
     
 
-#### 🍵 Kyoto (Dec 15–20)
+#### 🍵Kyoto (Dec 15–20)
 
 - **Ryokan:** Yuzuya Ryokan
     
@@ -44,7 +44,7 @@
     
 - **Cost:** ¥18,000/night × 5 = ¥90,000
 
-## 🗺️ Itinerary/Activities
+## 🗺️Itinerary/Activities
 
 |Date|Morning|Afternoon|Evening|Cost Est.|
 |---|---|---|---|---|
@@ -54,13 +54,18 @@
 |…|…|
 
 
-
 - Universal Studios Japan
 	- Date:
 	- Price: 
 	- 
 
-## 🍣 Food & Budget
+## 🍣Food
+
+
+
+## 🛍️Shopping
+
+
 
 
 
