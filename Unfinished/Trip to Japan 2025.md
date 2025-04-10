@@ -61,10 +61,14 @@
 ## 💴 Total Costs
 
 
-| Cost                      | Yen  | Aud   |
-| ------------------------- | ---- | ----- |
-| International Visitor Tax | 4000 | 44.28 |
-|                           |      |       |
-|                           |      |       |
-|                           |      |       |
-|                           |      |       |
+| Cost                      | Yen  | Aud          |
+| ------------------------- | ---- | ------------ |
+| International Visitor Tax | 4000 | 44.28        |
+| Flight to Tokyo           |      |              |
+| Flight to                 |      |              |
+| Flight to Melbourne       |      |              |
+| Hotel                     |      |              |
+| Hotel                     |      |              |
+| Food                      |      |              |
+| Merchandise               |      | Maximum 3600 |
+|                           |      |              |
