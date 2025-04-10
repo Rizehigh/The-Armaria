@@ -70,6 +70,9 @@
 | Hotel                     |         |                   |
 | Hotel                     |         |                   |
 | Food                      |         |                   |
+| Travel Pass               |         |                   |
+| Entertainment             |         |                   |
+|                           |         |                   |
 | Merchandise               | 324,738 | Maximum of $3,600 |
 |                           |         |                   |
 |                           |         |                   |
