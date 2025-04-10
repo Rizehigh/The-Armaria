@@ -2,16 +2,16 @@
 
 ## 📅Date Overview
 
-| Date   | Location  | Notes                        |
-| ------ | --------- | ---------------------------- |
-| Dec 17 | Melbourne | Departure at 10:45 PM (QF79) |
-| Dec 18 | Tokyo     | Arrive 6:30 AM, check-in     |
-| Dec 2  | …         | …                            |
-|        |           |                              |
-|        |           |                              |
-|        |           |                              |
-| Jan 2  | Tokyo     | Departure at 10:45 PM (QF79) |
-| Jan 3  | Melbourne | Arrive 6:30 AM, check-in     |
+| Date   | Location              | Notes                        |
+| ------ | --------------------- | ---------------------------- |
+| Dec 17 | Melbourne             | Departure at 10:45 PM (QF79) |
+| Dec 18 | Tokyo                 | Arrive 6:30 AM, check-in     |
+| Dec 23 | Hakone or Kawaguchiko |                              |
+| Dec 24 | Kyoto                 |                              |
+| Dec 28 | Osaka                 |                              |
+|        |                       |                              |
+| Jan 2  | Tokyo                 | Departure at 10:45 PM (QF79) |
+| Jan 3  | Melbourne             | Arrive 6:30 AM, check-in     |
 
 
 ## ✈️ Flights
