@@ -5,8 +5,12 @@
 | Date   | Location     | Notes                        |
 | ------ | ------------ | ---------------------------- |
 | Dec 17 | Melbourne ✈️ | Departure at 10:45 PM (QF79) |
-| Dec 11 | Tokyo        | Arrive 6:30 AM, check-in     |
+| Dec 18 | Tokyo        | Arrive 6:30 AM, check-in     |
 | …      | …            | …                            |
+|        |              |                              |
+|        |              |                              |
+|        |              |                              |
+| Jan 2  |              |                              |
 
 
 ## ✈️ Flights
