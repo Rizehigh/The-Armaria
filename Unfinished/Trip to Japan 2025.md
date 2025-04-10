@@ -67,7 +67,7 @@
 | Flight to Tokyo           |         |                   |
 | Flight to                 |         |                   |
 | Flight to Melbourne       |         |                   |
-| Hotel                     |         |                   |
+| Hotel (Toky)              |         |                   |
 | Hotel                     |         |                   |
 | Food                      |         |                   |
 | Travel Pass               |         |                   |
