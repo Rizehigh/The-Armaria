@@ -4,7 +4,7 @@
 
 | Date   | Location     | Notes                        |
 | ------ | ------------ | ---------------------------- |
-| Dec 10 | Melbourne ✈️ | Departure at 10:45 PM (QF79) |
+| Dec 17 | Melbourne ✈️ | Departure at 10:45 PM (QF79) |
 | Dec 11 | Tokyo        | Arrive 6:30 AM, check-in     |
 | …      | …            | …                            |
 
@@ -13,7 +13,7 @@
 
 - **Airline:** Qantas
     
-- **Flight Out:** QF79, Dec 10, MEL → HND
+- **Flight Out:** QF79, Dec 17, MEL → HND
     
 - **Return Flight:** QF80, Dec 24, HND → MEL
     
