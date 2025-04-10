@@ -73,7 +73,7 @@
 | Travel Pass               |             |                   |
 | Entertainment             |             |                   |
 |                           |             |                   |
-| Merchandise               | 324,738     | Maximum of $3,600 |
+| Shopping (Tax free)       | 324,738     | Maximum of $3,600 |
 | Travel insurance          |             |                   |
 | Miscellaneous             |             |                   |
 |                           |             |                   |
