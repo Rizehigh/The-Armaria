@@ -10,8 +10,7 @@
 | Dec 24 | Kyoto                 |                              |
 | Dec 28 | Osaka                 |                              |
 |        |                       |                              |
-| Jan 2  | Tokyo                 | Departure at 10:45 PM (QF79) |
-| Jan 3  | Melbourne             | Arrive 6:30 AM, check-in     |
+| Jan 1  | Melbourne             | Arrive 6:30 AM, check-in     |
 
 
 ## ✈️ Flights
