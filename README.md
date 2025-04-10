@@ -1,10 +1,10 @@
 # [The Hypomnematheke](https://github.com/Rizehigh/The-Armaria)
 
-Hark, o' curious wanderer, as thou traversest the shadowed threshold, welcome to **SheepManiac's Obsidian Vault**!
+Hark, o curious wanderer, as thou traversest the shadowed threshold, welcome to **SheepManiac's Obsidian Vault**!
 
-This is my personal sanctum—a living archive in which I distil knowledge, preserve my contemporary fascinations, & weave fragments into form.
+This is my personal sanctum—a living archive wherein I distil knowledge, preserve my contemporary fascinations, & weave fragments into form.
 
-It chronicles my passage through study, introspection, & aspiration, while intertwining fragments of the things I cherish—anime, collectibles, & idle musings born in solitude. It is within this garden that I shape understanding & thoughts—where the arcane & curricular drudgery coalesce.
+It chronicles my passage through study, introspection, & aspiration, while intertwining fragments of the things I cherish—anime, collectibles, & idle musings born in solitude. It is within this garden my understanding & thoughts shape—where the arcane & curricular drudgery coalesce.
 
 Check out bio.site/SheepManiac for more!
 
