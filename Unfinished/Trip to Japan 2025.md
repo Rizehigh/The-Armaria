@@ -65,13 +65,10 @@
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
-- 08:00: Arrive at Shibuya Scramble
-- 
-
 | Time  | Activity                   | Location/Notes                          |
 | ----- | -------------------------- | --------------------------------------- |
-| 14:00 | Arrive at Shanghai Airport |                                         |
-| 19:00 | Arrive at Haneda Airport   |                                         |
+| 08:00 | Arrive at Shibuya Scramble | Near Shibuya Station                    |
+| 09:00 | Hachiko Statue             |                                         |
 | 19:20 | Take Japan Rail            |                                         |
 | 19:50 | Go to Hotel 1899           | Tokyo michi                             |
 |       |                            |                                         |
