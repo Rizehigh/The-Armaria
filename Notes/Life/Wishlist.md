@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## 🔧Tools & Accessories
@@ -10,6 +12,7 @@ kanban-plugin: board
 ## 🧸Anime Figures
 
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
+- [ ] PUP Frieren Blow kiss Ver. #6
 
 
 ## 🎴Pokemon Cards
