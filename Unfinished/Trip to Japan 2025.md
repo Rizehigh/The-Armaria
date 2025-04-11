@@ -38,14 +38,14 @@
 
 ## 🗺️Itinerary/Activities
 
-| Date   | Morning | Afternoon | Evening | Cost Est. |
-| ------ | ------- | --------- | ------- | --------- |
-| Dec 17 | Flight  | Flight    | Dinner  |           |
-| Dec 18 |         |           |         |           |
-|        |         |           |         |           |
-|        |         |           |         |           |
-|        |         |           |         |           |
-|        |         |           |         |           |
+| Date   | Morning   | Afternoon     | Evening | Cost Est. |
+| ------ | --------- | ------------- | ------- | --------- |
+| Dec 17 | Flight    | Flight        | Dinner  |           |
+| Dec 18 |           |               |         |           |
+| Dec 19 | Akihabara | Ghibli Museum |         |           |
+|        | Ueno Park |               |         |           |
+|        |           |               |         |           |
+|        |           |               |         |           |
 
 
 
