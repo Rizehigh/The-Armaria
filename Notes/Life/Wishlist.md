@@ -6,19 +6,19 @@ kanban-plugin: board
 
 ## 🔧Tools & Accessories
 
-- [ ] Milwaukee 48-22-1501 Fastback Flip Utility Knife #6
+- [ ] Milwaukee 48-22-1501 Fastback Flip Utility Knife #7
 
 
 ## 🧸Anime Figures
 
-- [ ] Asuna Stacia 1/7 Scale #3
-- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 - [ ] PUP Frieren Blow kiss Ver. #6
+- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
+- [ ] Asuna Stacia 1/7 Scale #3
 
 
 ## 🎴Pokemon Cards
 
-- [ ] Gengar VMAX Alt Art
+- [ ] Pikachu #8
 
 
 ## 🧾Other
