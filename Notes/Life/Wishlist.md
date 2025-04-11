@@ -13,6 +13,7 @@ kanban-plugin: board
 
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 - [ ] PUP Frieren Blow kiss Ver. #6
+- [ ] Asuna Stacia 1/7 Scale #3
 
 
 ## 🎴Pokemon Cards
