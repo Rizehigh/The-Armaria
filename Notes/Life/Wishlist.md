@@ -11,11 +11,11 @@ kanban-plugin: board
 
 ## 🧸Anime Figures
 
+- [ ] Oshino Shinobu 1/8  [[Good Smile Company|GSC]] #10
 - [ ] PUP Frieren Blow kiss Ver. #6
+- [ ] Asuna - 1/8 - Knights of the Blood Ver. - [[Good Smile Company|GSC]] #6
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 - [ ] Asuna Stacia 1/7 Scale #3
-- [ ] Oshino Shinobu 1/8  [[Good Smile Company|GSC]] #10
-- [ ] Asuna - 1/8 - Knights of the Blood Ver. - [[Good Smile Company|GSC]] #6
 
 
 ## 🎴Pokemon Cards
