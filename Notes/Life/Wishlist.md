@@ -44,6 +44,8 @@ kanban-plugin: board
 	Braixen - 069/068 - s11a #6
 - [ ] PSA 10
 	Flaaffy - 195/198 - S8b #6
+- [ ] PSA 10 
+	Riolu - 086/078 - sv1S #3
 
 
 ## 🧾Other
