@@ -42,6 +42,8 @@ kanban-plugin: board
 	Stoutland - 061/049 - SM11b #6
 - [ ] PSA 10
 	Braixen - 069/068 - s11a #6
+- [ ] PSA 10
+	Flaaffy - 195/198 - S8b #6
 
 
 ## 🧾Other
