@@ -20,6 +20,7 @@ kanban-plugin: board
 
 ## Other
 
+- [ ] Ado's Best Adobum
 
 
 ## Purchased
