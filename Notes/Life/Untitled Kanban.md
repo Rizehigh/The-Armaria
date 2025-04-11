@@ -21,7 +21,7 @@ kanban-plugin: board
 
 ## 🧾Other
 
-- [ ] Ado's Best Adobum
+- [ ] Ado's Best Adobum #7
 
 
 ## 🛍Purchased
