@@ -16,7 +16,7 @@ kanban-plugin: board
 
 ## 🎴Pokemon Cards
 
-- [ ] 5★ Gengar VMAX Alt Art
+- [ ] Gengar VMAX Alt Art
 
 
 ## 🧾Other
