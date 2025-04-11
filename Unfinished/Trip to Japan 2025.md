@@ -65,15 +65,15 @@
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
-| Time  | Activity                   | Location/Notes                          |
-| ----- | -------------------------- | --------------------------------------- |
-| 08:00 | Arrive at Shibuya Scramble | Near Shibuya Station                    |
-| 09:00 | Hachiko Statue             |                                         |
-| 19:20 | Take Japan Rail            |                                         |
-| 19:50 | Go to Hotel 1899           | Tokyo michi                             |
-|       |                            |                                         |
-| 20:20 | Dinner                     | Nearby izakaya or conbini meal          |
-| 21:00 | Light browsing             | Explore hotel area or convenience store |
+| Time  | Activity                         | Location/Notes                          |
+| ----- | -------------------------------- | --------------------------------------- |
+| 08:00 | Arrive at Shibuya Scramble       | Near Shibuya Station                    |
+| 09:00 | Statue of Hachiko, the loyal dog | One corner of Shibuya Scramble          |
+| 09:20 | Take Japan Rail                  |                                         |
+| 19:50 | Go to Hotel 1899                 | Tokyo michi                             |
+|       |                                  |                                         |
+| 20:20 | Dinner                           | Nearby izakaya or conbini meal          |
+| 21:00 | Light browsing                   | Explore hotel area or convenience store |
 
 ### Day 3
 
