@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] Milwaukee 48-22-1501 Fastback Flip Utility Knife
 
 
-## Anime Figures
+## 🧸Anime Figures
 
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]]
 
@@ -18,17 +18,17 @@ kanban-plugin: board
 
 
 
-## Other
+## 🧾Other
 
 - [ ] Ado's Best Adobum
 
 
-## Purchased
+## 🛍Purchased
 
 **Complete**
 
 
-## Abandoned
+## 🚫Abandoned
 
 
 
