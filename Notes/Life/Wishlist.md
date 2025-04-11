@@ -11,8 +11,8 @@ kanban-plugin: board
 
 ## 🧸Anime Figures
 
-- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 - [ ] PUP Frieren Blow kiss Ver. #6stars
+- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5stars
 - [ ] Asuna Stacia 1/7 Scale #3stars
 
 
