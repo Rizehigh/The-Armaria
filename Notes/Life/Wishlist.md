@@ -44,11 +44,12 @@ kanban-plugin: board
 	Braixen - 069/068 - s11a #6
 - [ ] #PSA10 
 	Flaaffy - 195/198 - S8b #6
+	>$48
 - [ ] #PSA10 
 	Riolu - 086/078 - sv1S #3
 - [ ] #PSA10 
 	Detective Pikachu - 098/SV-P - PROMO
-	>
+	>$152
 
 
 ## 🧾Other
