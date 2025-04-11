@@ -40,7 +40,7 @@
 
 | Date   | Morning                                                         | Afternoon                 | Evening   | Cost Est. |
 | ------ | --------------------------------------------------------------- | ------------------------- | --------- | --------- |
-| Dec 17 | Flight                                                          | Flight                    | Dinner    |           |
+| Dec 17 | Flight To HND                                                   | Flight                    | Dinner    |           |
 | Dec 18 | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Harajuku (Takeshita, Cat) |           |           |
 | Dec 19 | Akihabara                                                       |                           |           |           |
 | Dec 20 | Asakusa                                                         | Tokyo National Museum     | Ueno Park |           |
@@ -79,23 +79,23 @@
 ## 💴 Total Costs
 
 
-| Cost                         | Yen         | Aud               |
-| ---------------------------- | ----------- | ----------------- |
-| International Visitor Tax    | 4,000       | $44.28            |
-| Flight to Tokyo (NRT or HND) |             | $4000             |
-| Flight to                    |             |                   |
-| Flight to Melbourne          |             | $4000             |
-| Hotel (Tokyo)                |             |                   |
-| Hotel (Osaka)                |             |                   |
-| Food                         | ¥3,000×13×4 | $1700             |
-|                              |             |                   |
-| Entertainment                |             |                   |
-|                              |             |                   |
-| Shopping (Tax free)          | 324,738     | Maximum of $3,600 |
-| Japan Rail Pass              |             |                   |
-| Wifi                         |             |                   |
-|                              |             |                   |
-| Travel insurance             |             |                   |
-| Miscellaneous                |             |                   |
-|                              |             |                   |
-| Total                        |             |                   |
+| Cost                      | Yen         | Aud               |
+| ------------------------- | ----------- | ----------------- |
+| International Visitor Tax | 4,000       | $44.28            |
+| Flight to Tokyo (HND)     |             | $4000             |
+| Flight to                 |             |                   |
+| Flight to Melbourne       |             | $4000             |
+| Hotel (Tokyo)             |             |                   |
+| Hotel (Osaka)             |             |                   |
+| Food                      | ¥3,000×13×4 | $1700             |
+|                           |             |                   |
+| Entertainment             |             |                   |
+|                           |             |                   |
+| Shopping (Tax free)       | 324,738     | Maximum of $3,600 |
+| Japan Rail Pass           |             |                   |
+| Wifi                      |             |                   |
+|                           |             |                   |
+| Travel insurance          |             |                   |
+| Miscellaneous             |             |                   |
+|                           |             |                   |
+| Total                     |             |                   |
