@@ -36,7 +36,7 @@ kanban-plugin: board
 
 ## 🎴Pokemon Cards
 
-- [ ] Pikachu #8
+- [ ] Pikachu - 073/071 - Dark Phantasma #8
 
 
 ## 🧾Other
