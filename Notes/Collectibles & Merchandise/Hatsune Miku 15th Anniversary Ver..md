@@ -2,6 +2,8 @@
 tags:
   - vocaloid/Hatsune-Miku
   - anime/figure/review
+aliases:
+  - Hatsune Miku - 1/7 - 15th Anniversary Ver.
 ---
 ![[Hatsune Miku 15th Anniversary Ver..jpg]]
 ### 🧾Details

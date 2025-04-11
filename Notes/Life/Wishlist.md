@@ -18,7 +18,7 @@ kanban-plugin: board
 - [ ] Asuna - 1/7 - Miko Ver. [[Wings Inc.]] #6
 - [ ] Asuna Stacia 1/7 Scale #3
 - [ ] Hakurei Reimu - 1/8 [[Good Smile Company|GSC]] #dreaming
-- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #dreaming/5
+- [ ] [[Hatsune Miku 15th Anniversary Ver.]] [[Good Smile Company|GSC]] #dreaming/5
 - [ ] Asuna - 1/7 - Angel Ver. [[Shibuya Scramble]] #4
 - [ ] Asuna - 1/7 - Crystal Dress Ver. [[Shibuya Scramble]] #8
 - [ ] Hatsune Miku - 1/7 - 2022 Chinese New Year Ver. [[F:NEX]] #8
