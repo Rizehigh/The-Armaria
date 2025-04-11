@@ -54,14 +54,14 @@
 - **20:20:** Eat
 - **21:00:** Browse 
 
-| Time  | Activity       | Location/Notes                          |
-| ----- | -------------- | --------------------------------------- |
-|       |                |                                         |
-|       |                |                                         |
-|       |                |                                         |
-|       |                |                                         |
-| 20:20 | Dinner         | Nearby izakaya or conbini meal          |
-| 21:00 | Light browsing | Explore hotel area or convenience store |
+| Time  | Activity                   | Location/Notes                          |
+| ----- | -------------------------- | --------------------------------------- |
+| 14:00 | Arrive at Shanghai Airport |                                         |
+| 19:00 | Arrive at Haneda Airport   |                                         |
+| 19:50 | Go to Hotel 1899           |                                         |
+|       |                            |                                         |
+| 20:20 | Dinner                     | Nearby izakaya or conbini meal          |
+| 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
 - 08:00: 
