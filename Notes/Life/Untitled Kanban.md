@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## 🔧Tools & Accessories
 
-- [ ] Milwaukee 48-22-1501 Fastback Flip Utility Knife
+- [ ] Milwaukee 48-22-1501 Fastback Flip Utility Knife #6
 
 
 ## 🧸Anime Figures
 
-- [ ] [[Hatsune Miku 15th Anniversary Ver.]]
+- [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 
 
 ## 🎴Pokemon Cards
