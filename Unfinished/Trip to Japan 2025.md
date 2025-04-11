@@ -38,12 +38,15 @@
 
 ## 🗺️Itinerary/Activities
 
-| Date   | Morning           | Afternoon           | Evening          | Cost Est. |
-| ------ | ----------------- | ------------------- | ---------------- | --------- |
-| Dec 11 | Arrival, JR Pass  | Shinjuku Gyoen Park | Ichiran Ramen    | ¥3,000    |
-| Dec 12 | Meiji Shrine      | Harajuku/Omotesando | Akihabara wander | ¥5,000    |
-| Dec 13 | Day trip to Nikko |                     |                  | ¥8,000    |
-| …      | …                 |                     |                  |           |
+| Date   | Morning | Afternoon | Evening       | Cost Est. |
+| ------ | ------- | --------- | ------------- | --------- |
+| Dec 17 | Flight  | Flight    | Ichiran Ramen |           |
+|        |         |           |               |           |
+|        |         |           |               |           |
+|        |         |           |               |           |
+|        |         |           |               |           |
+|        |         |           |               |           |
+
 
 
 - Universal Studios Japan
