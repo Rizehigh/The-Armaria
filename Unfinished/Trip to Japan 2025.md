@@ -38,22 +38,22 @@
 
 ## 🗺️Itinerary/Activities
 
-| Date   | Morning                           | Afternoon                              | Evening | Cost Est. |
-| ------ | --------------------------------- | -------------------------------------- | ------- | --------- |
-| Dec 17 | Flight                            | Flight                                 | Dinner  |           |
-| Dec 18 | Shibuya Scramble & Hachiko statue | Shibuya Sky Observation deck, Harajuku |         |           |
-| Dec 19 | Akihabara                         | Ghibli Museum                          |         |           |
-| Dec 20 | Ueno Park                         |                                        |         |           |
-| Dec 21 |                                   |                                        |         |           |
-| Dec 22 |                                   |                                        |         |           |
-| Dec 23 |                                   |                                        |         |           |
-| Dec 24 |                                   |                                        |         |           |
-| Dec 25 |                                   |                                        |         |           |
-| Dec 26 |                                   |                                        |         |           |
-| Dec 27 |                                   |                                        |         |           |
-| Dec 28 |                                   |                                        |         |           |
-| Dec 29 |                                   |                                        |         |           |
-|        |                                   |                                        |         |           |
+| Date   | Morning                           | Afternoon                              | Evening   | Cost Est. |
+| ------ | --------------------------------- | -------------------------------------- | --------- | --------- |
+| Dec 17 | Flight                            | Flight                                 | Dinner    |           |
+| Dec 18 | Shibuya Scramble & Hachiko statue | Shibuya Sky Observation deck, Harajuku |           |           |
+| Dec 19 | Akihabara                         | Ghibli Museum                          |           |           |
+| Dec 20 |                                   |                                        |           |           |
+| Dec 21 | Asakusa                           |                                        | Ueno Park |           |
+| Dec 22 |                                   |                                        |           |           |
+| Dec 23 |                                   |                                        |           |           |
+| Dec 24 |                                   |                                        |           |           |
+| Dec 25 |                                   |                                        |           |           |
+| Dec 26 |                                   |                                        |           |           |
+| Dec 27 |                                   |                                        |           |           |
+| Dec 28 |                                   |                                        |           |           |
+| Dec 29 |                                   |                                        |           |           |
+|        |                                   |                                        |           |           |
 
 
 
