@@ -50,7 +50,7 @@ kanban-plugin: board
 
 ## 🧾Other
 
-- [ ] Ado's Best Adobum #7
+- [ ] Ado's Best Adobum #6
 
 
 ## 🛍Purchased
