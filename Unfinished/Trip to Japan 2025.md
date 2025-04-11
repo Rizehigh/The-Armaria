@@ -68,8 +68,9 @@
 | Time  | Activity                   | Location/Notes                          |
 | ----- | -------------------------- | --------------------------------------- |
 | 09:00 | Arrive in Shimokitazawa    | Vintage shops, cafes                    |
-| 08:20 | Arrive at Shibuya Scramble | Near Shibuya Station                    |
-| 08:30 | Hachiko                    | One corner of Shibuya Scramble          |
+| 11:00 | Brunch                     |                                         |
+| 12:20 | Arrive at Shibuya Scramble | Near Shibuya Station                    |
+| 08:30 | Hachiko Statue             | One corner of Shibuya Scramble          |
 |       | Shopping                   |                                         |
 |       |                            |                                         |
 | 16:15 | Walk to Shibuya Sky        | 2 Chome-24-12 Shibuya                   |
