@@ -38,14 +38,14 @@
 
 ## 🗺️Itinerary/Activities
 
-| Date   | Morning | Afternoon | Evening       | Cost Est. |
-| ------ | ------- | --------- | ------------- | --------- |
-| Dec 17 | Flight  | Flight    | Ichiran Ramen |           |
-|        |         |           |               |           |
-|        |         |           |               |           |
-|        |         |           |               |           |
-|        |         |           |               |           |
-|        |         |           |               |           |
+| Date   | Morning | Afternoon | Evening | Cost Est. |
+| ------ | ------- | --------- | ------- | --------- |
+| Dec 17 | Flight  | Flight    | Dinner  |           |
+| Dec 18 |         |           |         |           |
+|        |         |           |         |           |
+|        |         |           |         |           |
+|        |         |           |         |           |
+|        |         |           |         |           |
 
 
 
