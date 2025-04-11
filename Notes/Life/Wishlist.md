@@ -37,7 +37,11 @@ kanban-plugin: board
 ## 🎴Pokemon Cards
 
 - [ ] PSA 10 
-	Pikachu - 073/071 - Dark Phantasma #8
+	Pikachu - 073/071 - s10a #8
+- [ ] PSA 10
+	Stoutland - 061/049 - SM11b #6
+- [ ] PSA 10 
+	Braixen - 069/068 - s11a
 
 
 ## 🧾Other
