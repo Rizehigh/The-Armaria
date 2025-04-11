@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] PUP Frieren Blow kiss Ver. #6
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #5
 - [ ] Asuna Stacia 1/7 Scale #3
+- [ ] Oshino Shinobu 1/8  [[Good Smile Company]] #10
 
 
 ## 🎴Pokemon Cards
