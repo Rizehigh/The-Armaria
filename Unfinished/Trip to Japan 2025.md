@@ -26,21 +26,24 @@
 - **Address:** 新宿区新宿2-2-8
 - **Booking Platform:** Agoda
 - **Cost:** ¥8,000/night × 4 = ¥32,000
+- **Notes:** 
 
 #### 🍵Kyoto (Dec 15–20)
 
-- **Ryokan:** Yuzuya Ryokan
-- **Notes:** Includes breakfast & private bath
-- **Cost:** ¥18,000/night × 5 = ¥90,000
+- **Hotel:** APA Hotel Shinjuku Gyoenmae
+- **Address:** 新宿区新宿2-2-8
+- **Booking Platform:** Agoda
+- **Cost:** ¥8,000/night × 4 = ¥32,000
+- **Notes:** 
 
 ## 🗺️Itinerary/Activities
 
-|Date|Morning|Afternoon|Evening|Cost Est.|
-|---|---|---|---|---|
-|Dec 11|Arrival, JR Pass|Shinjuku Gyoen Park|Ichiran Ramen|¥3,000|
-|Dec 12|Meiji Shrine|Harajuku/Omotesando|Akihabara wander|¥5,000|
-|Dec 13|Day trip to Nikko|||¥8,000|
-|…|…|
+| Date   | Morning           | Afternoon           | Evening          | Cost Est. |
+| ------ | ----------------- | ------------------- | ---------------- | --------- |
+| Dec 11 | Arrival, JR Pass  | Shinjuku Gyoen Park | Ichiran Ramen    | ¥3,000    |
+| Dec 12 | Meiji Shrine      | Harajuku/Omotesando | Akihabara wander | ¥5,000    |
+| Dec 13 | Day trip to Nikko |                     |                  | ¥8,000    |
+| …      | …                 |                     |                  |           |
 
 
 - Universal Studios Japan
