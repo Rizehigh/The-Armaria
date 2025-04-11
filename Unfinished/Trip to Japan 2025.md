@@ -48,13 +48,14 @@
 | Jan 6 | Toyosu Fish Market, teamLab                                     | Ginza, Imperial Castle, Atago Shrine and Hie Shrine | Tokyo Station                 |           |
 ### Day 1
 
-- **14:00:** Arrive at airport
-- **19:00:** Arrive in Tokyo
+- **14:00:** Arrive at Shanghai Airport
+- **19:00:** Arrive at Haneda Airport
 - **19:50:** Go to hotel
 - **20:20:** Eat
-- 
+- **21:00:** Browse 
 ### Day 2
 
+- 08:00: 
 
 ### Day 3
 
