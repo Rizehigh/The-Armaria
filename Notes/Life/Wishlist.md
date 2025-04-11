@@ -40,8 +40,8 @@ kanban-plugin: board
 	Pikachu - 073/071 - s10a #8
 - [ ] PSA 10
 	Stoutland - 061/049 - SM11b #6
-- [ ] PSA 10 
-	Braixen - 069/068 - s11a
+- [ ] PSA 10
+	Braixen - 069/068 - s11a #6
 
 
 ## 🧾Other
