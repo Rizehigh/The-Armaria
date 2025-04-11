@@ -96,6 +96,8 @@
 
 ### Day 7
 
+08:00 Arrive at airport
+
 
 
 ## 🍣Food
