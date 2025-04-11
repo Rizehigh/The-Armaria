@@ -38,7 +38,7 @@ kanban-plugin: board
 
 - [ ] #PSA10 
 	Pikachu - 073/071 - s10a #8
-	>$
+	>$100
 - [ ] #PSA10 
 	Stoutland - 061/049 - SM11b #6
 	>$63
@@ -50,6 +50,7 @@ kanban-plugin: board
 	>$48
 - [ ] #PSA10 
 	Riolu - 086/078 - sv1S #3
+	>$65
 - [ ] #PSA10 
 	Detective Pikachu - 098/SV-P - PROMO
 	>$152
