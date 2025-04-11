@@ -69,9 +69,10 @@
 | ----- | -------------------------- | --------------------------------------- |
 | 08:00 | Arrive at Shibuya Scramble | Near Shibuya Station                    |
 | 08:20 | Hachiko                    | One corner of Shibuya Scramble          |
-| 08:30 | Walk to Shibuya Station    | 2 Chome-24-12 Shibuya                   |
 | 19:50 | Go to Hotel 1899           | Tokyo michi                             |
 |       |                            |                                         |
+|       |                            |                                         |
+| 20:30 | Walk to Shibuya Sky        | 2 Chome-24-12 Shibuya                   |
 | 20:20 | Dinner                     | Nearby izakaya or conbini meal          |
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 
