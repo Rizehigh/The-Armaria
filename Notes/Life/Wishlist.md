@@ -38,10 +38,13 @@ kanban-plugin: board
 
 - [ ] #PSA10 
 	Pikachu - 073/071 - s10a #8
+	>$
 - [ ] #PSA10 
 	Stoutland - 061/049 - SM11b #6
+	>$63
 - [ ] #PSA10 
 	Braixen - 069/068 - s11a #6
+	>$54
 - [ ] #PSA10 
 	Flaaffy - 195/198 - S8b #6
 	>$48
