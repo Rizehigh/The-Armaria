@@ -68,20 +68,23 @@
 ## 💴 Total Costs
 
 
-| Cost                      | Yen         | Aud               |
-| ------------------------- | ----------- | ----------------- |
-| International Visitor Tax | 4,000       | $44.28            |
-| Flight to Tokyo           |             | $4000             |
-| Flight to                 |             |                   |
-| Flight to Melbourne       |             | $4000             |
-| Hotel (Tokyo)             |             |                   |
-| Hotel (Osaka)             |             |                   |
-| Food                      | ¥3,000×13×4 | $1700             |
-| Japan Rail Pass           |             |                   |
-| Entertainment             |             |                   |
-|                           |             |                   |
-| Shopping (Tax free)       | 324,738     | Maximum of $3,600 |
-| Travel insurance          |             |                   |
-| Miscellaneous             |             |                   |
-|                           |             |                   |
-| Total                     |             |                   |
+| Cost                         | Yen         | Aud               |
+| ---------------------------- | ----------- | ----------------- |
+| International Visitor Tax    | 4,000       | $44.28            |
+| Flight to Tokyo (NRT or HND) |             | $4000             |
+| Flight to                    |             |                   |
+| Flight to Melbourne          |             | $4000             |
+| Hotel (Tokyo)                |             |                   |
+| Hotel (Osaka)                |             |                   |
+| Food                         | ¥3,000×13×4 | $1700             |
+|                              |             |                   |
+| Entertainment                |             |                   |
+|                              |             |                   |
+| Shopping (Tax free)          | 324,738     | Maximum of $3,600 |
+| Japan Rail Pass              |             |                   |
+| Wifi                         |             |                   |
+|                              |             |                   |
+| Travel insurance             |             |                   |
+| Miscellaneous                |             |                   |
+|                              |             |                   |
+| Total                        |             |                   |
