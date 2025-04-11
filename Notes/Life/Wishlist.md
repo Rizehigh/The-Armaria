@@ -48,6 +48,7 @@ kanban-plugin: board
 	Riolu - 086/078 - sv1S #3
 - [ ] #PSA10 
 	Detective Pikachu - 098/SV-P - PROMO
+	>
 
 
 ## 🧾Other
