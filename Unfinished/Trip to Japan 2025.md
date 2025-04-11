@@ -45,7 +45,7 @@
 | Jan 3 | Shinjuku, Gyoen National Park                                   | Omoide Yokocho                          |                               |           |
 | Jan 4 | Akihabara                                                       | Akihabara                               | Ueno Park, Asakusa, Sensou-ji |           |
 | Jan 5 | Yoyogi Park, Meiju Jingu                                        | Harajuku, Omotesando, Aoyama & Roppongi | Roppongi Hills, Sky Deck      |           |
-|       |                                                                 |                                         |                               |           |
+| Jan 6 | Toyosu Fish Market                                              |                                         |                               |           |
 
 
 
