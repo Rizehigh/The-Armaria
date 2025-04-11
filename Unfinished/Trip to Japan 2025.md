@@ -38,22 +38,22 @@
 
 ## 🗺️Itinerary/Activities
 
-| Date   | Morning                                                         | Afternoon             | Evening                 | Cost Est. |
-| ------ | --------------------------------------------------------------- | --------------------- | ----------------------- | --------- |
-| Dec 31 | Flight To HND                                                   | Flight                | Dinner                  |           |
-| Jan 1  | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Shopping              | Shimokitazawa or return |           |
-| Jan 2  |                                                                 |                       |                         |           |
-| Jan 3  | Asakusa                                                         | Tokyo National Museum | Ueno Park               |           |
-| Jan 4  | Akihabara                                                       | Ueno                  |                         |           |
-| Jan 5  |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
-|        |                                                                 |                       |                         |           |
+| Date   | Morning                                                         | Afternoon             | Evening                       | Cost Est. |
+| ------ | --------------------------------------------------------------- | --------------------- | ----------------------------- | --------- |
+| Dec 31 | Flight To HND                                                   | Flight                | Dinner                        |           |
+| Jan 1  | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Shopping              | Shimokitazawa or return       |           |
+| Jan 2  |                                                                 |                       |                               |           |
+| Jan 3  | Asakusa                                                         | Tokyo National Museum | Ueno Park                     |           |
+| Jan 4  | Akihabara                                                       | Akihabara             | Ueno Park, Asakusa, Sensou-ji |           |
+| Jan 5  |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
+|        |                                                                 |                       |                               |           |
 
 
 
