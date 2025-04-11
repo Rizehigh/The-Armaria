@@ -58,13 +58,24 @@
 | ----- | -------------------------- | --------------------------------------- |
 | 14:00 | Arrive at Shanghai Airport |                                         |
 | 19:00 | Arrive at Haneda Airport   |                                         |
-| 19:50 | Go to Hotel 1899           |                                         |
+| 19:20 | Take Japan Rail            |                                         |
+| 19:50 | Go to Hotel 1899           | Tokyo michi                             |
 |       |                            |                                         |
 | 20:20 | Dinner                     | Nearby izakaya or conbini meal          |
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
 - 08:00: 
+
+| Time  | Activity                   | Location/Notes                          |
+| ----- | -------------------------- | --------------------------------------- |
+| 14:00 | Arrive at Shanghai Airport |                                         |
+| 19:00 | Arrive at Haneda Airport   |                                         |
+| 19:20 | Take Japan Rail            |                                         |
+| 19:50 | Go to Hotel 1899           | Tokyo michi                             |
+|       |                            |                                         |
+| 20:20 | Dinner                     | Nearby izakaya or conbini meal          |
+| 21:00 | Light browsing             | Explore hotel area or convenience store |
 
 ### Day 3
 
