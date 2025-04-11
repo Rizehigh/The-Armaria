@@ -65,7 +65,8 @@
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
-- 08:00: 
+- 08:00: Arrive at Shibuya Scramble
+- 
 
 | Time  | Activity                   | Location/Notes                          |
 | ----- | -------------------------- | --------------------------------------- |
