@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] Hakurei Reimu - 1/8 [[Good Smile Company|GSC]] #dreaming
 - [ ] Asuna - Yuuki - 1/7 - Ending Ver. [[Shibuya Scramble]] #dreaming/4
 - [ ] [[Hatsune Miku 15th Anniversary Ver.|Hatsune Miku - 1/7 - 15th Anniversary Ver.]] [[Good Smile Company|GSC]] #dreaming/5
+- [ ] Sengoku Nadeko - 1/8 [[Alter]] #5
 
 
 ## 🎴Pokemon Cards
