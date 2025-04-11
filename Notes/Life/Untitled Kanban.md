@@ -11,6 +11,7 @@ kanban-plugin: board
 
 ## Anime Figures
 
+- [ ] [[Hatsune Miku 15th Anniversary Ver.]]
 
 
 ## Pokemon Cards
