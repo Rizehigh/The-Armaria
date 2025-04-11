@@ -40,19 +40,19 @@
 
 | Date   | Morning                                                         | Afternoon                 | Evening   | Cost Est. |
 | ------ | --------------------------------------------------------------- | ------------------------- | --------- | --------- |
-| Dec 17 | Flight To HND                                                   | Flight                    | Dinner    |           |
-| Dec 18 | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Harajuku (Takeshita, Cat) |           |           |
-| Dec 19 | Akihabara                                                       |                           |           |           |
-| Dec 20 | Asakusa                                                         | Tokyo National Museum     | Ueno Park |           |
-| Dec 21 |                                                                 |                           |           |           |
-| Dec 22 |                                                                 |                           |           |           |
-| Dec 23 |                                                                 |                           |           |           |
-| Dec 24 |                                                                 |                           |           |           |
-| Dec 25 |                                                                 |                           |           |           |
-| Dec 26 |                                                                 |                           |           |           |
-| Dec 27 |                                                                 |                           |           |           |
-| Dec 28 |                                                                 |                           |           |           |
-| Dec 29 |                                                                 |                           |           |           |
+| Dec 31 | Flight To HND                                                   | Flight                    | Dinner    |           |
+| Jan 1  | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Harajuku (Takeshita, Cat) |           |           |
+| Jan 2  | Akihabara                                                       |                           |           |           |
+| Jan 3  | Asakusa                                                         | Tokyo National Museum     | Ueno Park |           |
+| Jan 4  |                                                                 |                           |           |           |
+| Jan 5  |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
+|        |                                                                 |                           |           |           |
 |        |                                                                 |                           |           |           |
 
 
