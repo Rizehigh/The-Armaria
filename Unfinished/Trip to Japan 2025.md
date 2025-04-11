@@ -53,6 +53,11 @@
 - **19:50:** Go to hotel
 - **20:20:** Eat
 - **21:00:** Browse 
+
+| Time  | Activity       | Notes                                   |
+| ----- | -------------- | --------------------------------------- |
+| 20:20 | Dinner         | Nearby izakaya or conbini meal          |
+| 21:00 | Light browsing | Explore hotel area or convenience store |
 ### Day 2
 
 - 08:00: 
