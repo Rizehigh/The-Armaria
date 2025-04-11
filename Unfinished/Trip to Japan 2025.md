@@ -77,7 +77,7 @@
 | Hotel (Tokyo)             |             |                   |
 | Hotel (Osaka)             |             |                   |
 | Food                      | ¥3,000×13×4 | $1700             |
-| Travel Pass               |             |                   |
+| Japan Rail Pass           |             |                   |
 | Entertainment             |             |                   |
 |                           |             |                   |
 | Shopping (Tax free)       | 324,738     | Maximum of $3,600 |
