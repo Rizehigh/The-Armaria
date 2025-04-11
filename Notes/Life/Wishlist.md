@@ -31,7 +31,7 @@ kanban-plugin: board
 - [ ] Asuna - 1/7 - The Goddess of Creation Stacia Ver. [[Alter]] #1
 - [ ] Asuna - Yuuki - 1/7 - Ending Ver. [[Shibuya Scramble]] #dreaming/4
 - [ ] [[Hatsune Miku 15th Anniversary Ver.|Hatsune Miku - 1/7 - 15th Anniversary Ver.]] [[Good Smile Company|GSC]] #dreaming/5
-- [ ] Asuna Stacia 1/7 Scale #dreaming/8
+- [ ] Asuna Stacia - 1/7 [[Alter]] #dreaming/8
 - [ ] Hakurei Reimu - 1/8 [[Good Smile Company|GSC]] #dreaming/8
 
 
