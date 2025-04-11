@@ -42,9 +42,9 @@
 | ------ | --------------------------------------------------------------- | ------------------------- | --------- | --------- |
 | Dec 17 | Flight                                                          | Flight                    | Dinner    |           |
 | Dec 18 | Shibuya Scramble & Hachiko statue, Shibuya Sky Observation deck | Harajuku (Takeshita, Cat) |           |           |
-| Dec 19 | Akihabara                                                       | Ghibli Museum             |           |           |
-| Dec 20 |                                                                 |                           |           |           |
-| Dec 21 | Asakusa                                                         | Tokyo National Museum     | Ueno Park |           |
+| Dec 19 | Akihabara                                                       |                           |           |           |
+| Dec 20 | Asakusa                                                         | Tokyo National Museum     | Ueno Park |           |
+| Dec 21 |                                                                 |                           |           |           |
 | Dec 22 |                                                                 |                           |           |           |
 | Dec 23 |                                                                 |                           |           |           |
 | Dec 24 |                                                                 |                           |           |           |
