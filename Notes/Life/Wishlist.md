@@ -12,7 +12,7 @@ kanban-plugin: board
 ## 🧸Anime Figures
 
 - [ ] Oshino Shinobu 1/8  [[Good Smile Company|GSC]] #10
-- [ ] PUP Frieren Blow kiss Ver. #6
+- [ ] Frieren - Blow kiss Ver. [[Pop Up Parade|PUP]] #6
 - [ ] Asuna - 1/8 - Knights of the Blood Ver. - [[Good Smile Company|GSC]] #6
 - [ ] Oshino Shinobu - 1/8 [[Alter]] #6
 - [ ] Asuna - 1/7 - Miko Ver. [[Wings Inc.]] #6
@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #dreaming/5
 - [ ] Asuna - 1/7 - Angel Ver. [[Shibuya Scramble]] #4
 - [ ] Asuna - 1/7 - Crystal Dress Ver. [[Shibuya Scramble]] #8
+- [ ] Hatsune Miku - 1/7 - 2022 Chinese New Year Ver. [[F:NEX]] #8
 
 
 ## 🎴Pokemon Cards
