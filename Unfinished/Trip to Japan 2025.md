@@ -65,17 +65,18 @@
 | 21:00 | Light browsing             | Explore hotel area or convenience store |
 ### Day 2
 
-| Time  | Activity                       | Location/Notes                          |
-| ----- | ------------------------------ | --------------------------------------- |
-| 09:00 | Arrive in Shimokitazawa        | Vintage shops, cafes                    |
-| 11:00 | Brunch                         |                                         |
-| 12:20 | Arrive at Shibuya Scramble     | Near Shibuya Station                    |
-| 08:30 | Hachiko Statue                 | One corner of Shibuya Scramble          |
-|       | Shopping                       |                                         |
-|       |                                |                                         |
-| 16:15 | Walk to SHIBUYA SKY"Sky Lobby" | 2 Chome-24-12 Shibuya                   |
-| 20:20 | Dinner                         | Nearby izakaya or conbini meal          |
-| 21:00 | Light browsing                 | Explore hotel area or convenience store |
+| Time  | Activity                   | Location/Notes                                    |
+| ----- | -------------------------- | ------------------------------------------------- |
+| 09:00 | Arrive in Shimokitazawa    | Vintage shops, cafes                              |
+| 11:00 | Brunch                     |                                                   |
+| 12:20 | Arrive at Shibuya Scramble | Near Shibuya Station                              |
+| 12:30 | Hachiko Statue             | One corner of Shibuya Scramble                    |
+| 12:35 | Shopping                   |                                                   |
+|       |                            |                                                   |
+| 16:00 | Walk to Shibuya Sky Lobby  |                                                   |
+| 16:15 | Arrive at Shibuya Sky      | Opposite Shibuya Sky Lobby, 2 Chome-24-12 Shibuya |
+| 20:20 | Dinner                     | Nearby izakaya or conbini meal                    |
+| 21:00 | Light browsing             | Explore hotel area or convenience store           |
 
 ### Day 3
 
