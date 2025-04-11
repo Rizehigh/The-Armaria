@@ -27,11 +27,11 @@ kanban-plugin: board
 - [ ] Asuna - 1/7 - Miko Ver. [[Wings Inc.]] #6
 - [ ] Sengoku Nadeko - 1/8 [[Alter]] #5
 - [ ] Asuna - 1/7 - Angel Ver. [[Shibuya Scramble]] #4
-- [ ] Asuna Stacia 1/7 Scale #3
 - [ ] Hatsune Miku - 1/7 - Meihua Sannong Ver. [[Good Smile Company|GSC]] #2
 - [ ] Asuna - 1/7 - The Goddess of Creation Stacia Ver. [[Alter]] #1
 - [ ] Asuna - Yuuki - 1/7 - Ending Ver. [[Shibuya Scramble]] #dreaming/4
 - [ ] [[Hatsune Miku 15th Anniversary Ver.|Hatsune Miku - 1/7 - 15th Anniversary Ver.]] [[Good Smile Company|GSC]] #dreaming/5
+- [ ] Asuna Stacia 1/7 Scale #dreaming/8
 - [ ] Hakurei Reimu - 1/8 [[Good Smile Company|GSC]] #dreaming/8
 
 
