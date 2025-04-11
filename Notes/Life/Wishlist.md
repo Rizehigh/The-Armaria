@@ -14,8 +14,8 @@ kanban-plugin: board
 - [ ] Oshino Shinobu 1/8  [[Good Smile Company|GSC]] #10
 - [ ] Asuna - 2.0 [[Nendoroid]] #10
 - [ ] Asuna - 1/7 - Crystal Dress Ver. [[Shibuya Scramble]] #8
-- [ ] Hatsune Miku - 1/7 - 2022 Chinese New Year Ver. [[F:NEX]] #8
-- [ ] Chomusuke - Megumin - F:Nex - 1/7 - Black Rose Dress ver. [[F:NEX]] #8
+- [ ] Hatsune Miku - 1/7 - 2022 Chinese New Year Ver. [[F NEX|F:NEX]] #8
+- [ ] Chomusuke - Megumin - F:Nex - 1/7 - Black Rose Dress ver. [[F NEX|F:NEX]] #8
 - [ ] Frieren - Blow kiss Ver. [[Pop Up Parade|PUP]] #8
 - [ ] Vladilena Milizé - Bloody Regina Ver. [[Nendoroid]] #8
 - [ ] Maomao [[Nendoroid]] #8
