@@ -46,6 +46,8 @@ kanban-plugin: board
 	Flaaffy - 195/198 - S8b #6
 - [ ] #PSA10 
 	Riolu - 086/078 - sv1S #3
+- [ ] #PSA10 
+	Detective Pikachu - 098/SV-P - PROMO
 
 
 ## 🧾Other
