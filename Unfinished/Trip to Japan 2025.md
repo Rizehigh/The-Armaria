@@ -47,6 +47,27 @@
 | Jan 5 | Yoyogi Park, Meiju Jingu                                        | Harajuku, Omotesando, Aoyama & Roppongi             | Roppongi Hills, Sky Deck      |           |
 | Jan 6 | Toyosu Fish Market, teamLab                                     | Ginza, Imperial Castle, Atago Shrine and Hie Shrine | Tokyo Station                 |           |
 ### Day 1
+Wake up at 8. Arrive at airport
+
+### Day 2
+
+
+### Day 3
+
+
+
+### Day 4
+
+
+
+
+### Day 5
+
+
+
+
+### Day 6
+
 
 
 ## 🍣Food
