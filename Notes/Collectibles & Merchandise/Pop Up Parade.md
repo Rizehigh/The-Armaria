@@ -2,8 +2,10 @@
 tags:
   - shopping
   - anime/figure
+aliases:
+  - PUP
 ---
-**Pop Up Parade**, or **PuP**, is a series of figures distributed by [[Good Smile Company]]
+**Pop Up Parade**, or PUP, is a series of figures distributed by [[Good Smile Company]]
 - May include interchangeable face plates & removeable items.
 - Bases are **not typically clear** contrary to promotional images, & are **low quality**.
 - Figure height varies depending on pose—for instance, seated figures may have half the standard height.
@@ -12,15 +14,15 @@ tags:
 
 ### 📏 Standard Sizing & Pricing
 
-- **Standard PuP**:  
+- **Standard PUP**:  
     Approx. **170–180 mm** (6.7 in) / ~1/10 scale  
     Price: ¥4,800–¥5,500
     
-- **PuP L**:  
+- PUP L**:  
     Approx. **185–240 mm** / ~1/7 or 1/8 scale  
     Price: ~¥8,800
     
-- **PuP XL**:  
+- **PUP XL**:  
     Approx. **340–400 mm** (15.7 in) / ~1/4 or 1/5 scale  
     May include **additional features** like interchangeable parts  
     Price: **¥25,000–¥39,800**
@@ -29,11 +31,11 @@ tags:
 
 ### 🌟 Special Lines
 
-- **PuP SP**:  
+- **PUP SP**:  
     Enhanced quality; size ranges from **170–260 mm** (~7 in / 1/10 scale)  
     Price: **¥9,800–¥12,000**
     
-- **PuP BQ (Beach Queens)**:  
+- PUP BQ (Beach Queens)**:  
     Swimsuit-themed figures  
     Price: ~¥4,800
     
