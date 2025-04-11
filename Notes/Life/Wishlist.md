@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] Asuna Stacia 1/7 Scale #3
 - [ ] Hakurei Reimu - 1/8 [[Good Smile Company|GSC]] #dreaming
 - [ ] [[Hatsune Miku 15th Anniversary Ver.]] #dreaming/5
+- [ ] Asuna - 1/7 - Angel Ver. [[Shibuya Scramble]] #4
 
 
 ## 🎴Pokemon Cards
