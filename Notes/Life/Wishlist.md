@@ -36,6 +36,9 @@ kanban-plugin: board
 
 ## 🎴Pokemon Cards
 
+- [ ] #PSA10 #9
+	Detective Pikachu - 098/SV-P - PROMO
+	>$152
 - [ ] #PSA10 
 	Pikachu - 073/071 - s10a #8
 	>$100
@@ -51,9 +54,6 @@ kanban-plugin: board
 - [ ] #PSA10 
 	Riolu - 086/078 - sv1S #3
 	>$65
-- [ ] #PSA10 
-	Detective Pikachu - 098/SV-P - PROMO
-	>$152
 
 
 ## 🧾Other
